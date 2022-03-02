@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FerojAlam
+- 👋 Hi, I’m @Feroj Alam
 - 👀 I’m interested in web development
 - 🌱 I’m currently focused on React JS
 
